@@ -1,6 +1,6 @@
 # emailify
 
-A simple function to make output an email in a more secure.
+A simple function to print an email in a more secure way.
 
 # Example
 input: hello.world@gmail.com
